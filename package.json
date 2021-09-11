@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/index.htm",
+  "scripts": {
+    "dev": "npm run development",
+    "development": "mix",
+    "watch": "mix watch"
+  },
+  "author": "Thang Truong",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-mix": "^6.0.31",
+    "laravel-mix-tailwind": "^0.1.2",
+    "resolve-url-loader": "^4.0.0",
+    "sass-loader": "^12.1.0",
+    "tailwindcss": "^2.2.15"
+  },
+  "dependencies": {
+    "sass": "^1.39.2"
+  }
+}
