@@ -1,19 +1,20 @@
-# frontend
+# None Framework with [Tailwindcss](https://tailwindcss.com/)
 
 A example package use Tailwind with SCSS
 
-## How to use?
+### How to use?
 
 Click [here](https://github.com/yensubldg/unframework_tailwindcss/generate) to use this template and clone this repository to your local machine.
 
-```bash
-npm i
+```
+npm install or npm i
 ```
 
-```bash
+```
 npm run dev
 ```
 ### Watch Assets for Changes
 ```
 npm run watch
 ```
+
