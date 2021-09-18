@@ -11,13 +11,12 @@
   "author": "Thang Truong",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^10.3.4",
     "laravel-mix": "^6.0.31",
-    "laravel-mix-tailwind": "^0.1.2",
+    "postcss": "^8.3.6",
     "resolve-url-loader": "^4.0.0",
+    "sass": "^1.41.1",
     "sass-loader": "^12.1.0",
     "tailwindcss": "^2.2.15"
-  },
-  "dependencies": {
-    "sass": "^1.39.2"
   }
 }
