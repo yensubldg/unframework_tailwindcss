@@ -1,6 +1,6 @@
 # None Framework with [Tailwindcss](https://tailwindcss.com/)
 
-A example package use Tailwind with SCSS
+A example package use Tailwindcss (Just in time mode) with SCSS
 
 ### How to use?
 
