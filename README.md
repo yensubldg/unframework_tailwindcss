@@ -18,3 +18,6 @@ npm run dev
 npm run watch
 ```
 
+## License
+
+None Framework with Tailwindcss licensed under the [MIT license](http://opensource.org/licenses/MIT).
