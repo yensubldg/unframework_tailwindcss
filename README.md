@@ -1,15 +1,23 @@
-# frontend
+# None Framework with [Tailwindcss](https://tailwindcss.com/)
 
-A example package use Tailwind with SCSS
+A example package use Tailwindcss (Just in time mode) with SCSS
 
-## How to use?
+### How to use?
 
-Click [here](https://github.com/yensubldg/frontend/generate) to use this template and clone this repository to your local machine.
+Click [here](https://github.com/yensubldg/unframework_tailwindcss/generate) to use this template and clone this repository to your local machine.
 
-```bash
-npm i
+```
+npm install or npm i
 ```
 
-```bash
+```
 npm run dev
 ```
+### Watch Assets for Changes
+```
+npm run watch
+```
+
+## License
+
+None Framework with Tailwindcss licensed under the [MIT license](http://opensource.org/licenses/MIT).
